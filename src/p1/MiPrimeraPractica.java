@@ -6,6 +6,8 @@ public class MiPrimeraPractica {
 		
 		System.out.println("What if I told you I'm a mastermind?");
 		
+		System.out.println("And now you're mine");
+		
 	}
 
 }
